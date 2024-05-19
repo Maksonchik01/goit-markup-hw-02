@@ -195,55 +195,24 @@ h3 {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 .footer {
     background-color: #2e2f42;
-    padding: 20px;
-    color: #4d5ae5;
 }
 
-.logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
+.footer-logo {
     letter-spacing: 0.03em;
     text-transform: uppercase;
-}
-
-.logo-text {
-    color: #f4f4fd;
-}
-.portfolio-section {
-    background-color: #F4F4FD;
-}
-
-.portfolio-title {
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-}
-
-.portfolio-item-title {
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.portfolio-item-category {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .footer-paragraph {
     line-height: 1.5;
-    color: var(--footer-color);
+    color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+
+.footer-span {
+    color: #2e2f42;
 }
