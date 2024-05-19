@@ -7,19 +7,10 @@ body {
     line-height: 1.17;
 }
 
-.logo {
+
+.studio-span {
     font-family: 'Raleway', sans-serif;
     color: #4D5AE5;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
-
-.studio-color-bl {
-    font-family: 'Raleway', sans-serif;
-    color: #2e2f42;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -58,9 +49,7 @@ button {
     color: #4D5AE5;
 }
 
-.studio-span {
-    color: #2e2f42;
-}
+
 
 
 .nav-item {
