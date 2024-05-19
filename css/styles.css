@@ -5,14 +5,14 @@
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
    }
 .web-color-iris {
     color: #4D5AE5;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .studio-color-bl {
     color: #2E2F42;
