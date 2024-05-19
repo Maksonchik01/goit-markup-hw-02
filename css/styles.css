@@ -1,20 +1,22 @@
  body {
     color: #434455;
     background-color: #FFFFFF;
-     font-family: "Roboto"
- }
-.web {
+    font-family: 'Roboto', sans-serif;
+   }
+.web-color-iris {
     color: #4D5AE5;
     font-weight: 700
 }
-.studio {
+.studio-color-bl {
     color: #2E2F42;
     font-weight: 700
-    
+    font: size 18px;
 }
 
 .studio {
     color: #434455;
+    font-weight: 700
+    font: size 18px;
 }
 .portfolio {
     color: #434455;
