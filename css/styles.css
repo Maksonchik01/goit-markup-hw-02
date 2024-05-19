@@ -2,10 +2,17 @@
     font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #FFFFFF;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
    }
 .web-color-iris {
     color: #4D5AE5;
     font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
 }
 .studio-color-bl {
     color: #2E2F42;
@@ -21,8 +28,6 @@
     font-weight: 700;
     font: size 18px;
     line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 .portfolio {
     color: #434455;
