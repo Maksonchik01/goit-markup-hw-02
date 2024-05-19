@@ -144,11 +144,11 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.team-section {
+.team-section-three {
     background-color: #F4F4FD;
 }
 
-.team-title {
+.team-title-three {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -172,7 +172,7 @@ h3 {
     color: #2e2f42;
 }
 .portfolio-section {
-    background-color: #F4F4FD;
+    background-color:#E7E9FC;
 }
 
 .portfolio-title {
