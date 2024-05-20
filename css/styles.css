@@ -1,15 +1,16 @@
-.studio-span-webst {
+
+
+
+.studio-span-be {
     font-family: 'Raleway', sans-serif;
     color: #4D5AE5;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
+    text-transform: uppercase;}
 
-.contact-info {
-    color: #434455;
+.contact-info { color: #434455;
 }
 
 
@@ -30,7 +31,7 @@
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    list-style-type: none;
+    text-decoration: none;
 }
 
 
@@ -52,13 +53,13 @@
 
 
 .hero {
-    background-color:
-    #2e2f42;
+    background-color: #2e2f42;
+ 
 }
 
 .hero-title {
-    font-size: 36px;
-    line-height: 1.11;
+    font-size: 56px;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
@@ -71,6 +72,8 @@
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    border: none;
+
 }
 
 .team-section-three {
@@ -109,7 +112,7 @@
 }
 
 .portfolio-section {
-    background-color: #E7E9FC;
+    background-color:#E7E9FC;
 }
 
 .portfolio-title {
@@ -136,7 +139,7 @@
 }
 
 
-.underground {
+.footer {
     background-color: #2e2f42;
     padding: 20px;
     text-align: center;
