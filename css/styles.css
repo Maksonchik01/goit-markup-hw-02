@@ -23,22 +23,11 @@
     text-transform: uppercase;
     color: #4D5AE5;
 }
-
-.nav-list {
-    font-family: 'Roboto', sans-serif;
+.nav-item-one {
     font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-decoration: none;
+
 }
-
-
-
-
-.contact-info {
-    font-style: normal;
+ .contact-info { font-style: normal;
 }
 
 .contact-link {
@@ -141,7 +130,7 @@
 
 .footer {
     background-color: #2e2f42;
-    
+
     text-align: center;
 }
 
