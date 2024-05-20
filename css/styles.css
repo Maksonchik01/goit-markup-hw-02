@@ -1,11 +1,4 @@
-body {
-    font-family: 'Roboto', sans-serif;
-    color: #434455;
-    background-color: #FFFFFF;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-}
+
 
 
 .studio-span {
@@ -80,13 +73,9 @@ body {
     letter-spacing: 0.04em;
     color: #ffffff;
     border: none;
-    text-align: center
+    
 }
-.goal-to-identify {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
+
 .team-section-three {
     font-weight: 500;
     font-size: 20px;
