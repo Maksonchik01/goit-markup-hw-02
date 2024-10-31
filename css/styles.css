@@ -8,15 +8,21 @@ body {
   background-color: #ffffff;
 }
 .title {
+  font-family: 'Raleway'sans-serif;
   color: #4d5ae5;
   font-weight: 700;
   font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .studio-header {
+  font-family: 'Raleway'sans-serif;
   color: #2e2f42;
   font-weight: 700;
   font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .nav-studio {
@@ -39,7 +45,6 @@ h1 {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.071;
-  align-items: center;
   color: #ffffff;
 }
 .button-service {
@@ -54,9 +59,6 @@ h1 {
 }
 .co-workers {
   background-color: #ffffff;
-  padding: 16px;
-  border-radius: 4px;
-  text-align: left;
 }
 footer {
   color: #f4f4fd;
