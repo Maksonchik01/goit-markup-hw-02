@@ -40,19 +40,18 @@ ol {
 }
 
 .navigation:hover,
-.navigation:active,
 .navigation:focus {
   color: #404bbf;
 }
 
-.contacts {
+.contact-info {
   color: #434455;
   font-style: normal;
   letter-spacing: 0.02em;
 }
 
-.contact:hover,
-.contact:focus {
+.contact-info:hover,
+.contact-info:focus {
   color: #404bbf;
 }
 
@@ -71,13 +70,16 @@ ol {
   color: #ffffff;
   background-color: #4d5ae5;
   font-weight: 500;
+  cursor: pointer;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  cursor: pointer;
+
 }
+
 .button-service:hover,
 .button-service:focus {
-  color: #404bbf;
+  background-color: #404bbf;
+  color: #ffffff;
 }
 .subject {
   font-weight: 500;
