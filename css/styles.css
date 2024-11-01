@@ -43,7 +43,9 @@ ol {
 .navigation:focus {
   color: #404bbf;
 }
-
+.address {
+  font-style: normal;
+}
 .contact-info {
   color: #434455;
   font-style: normal;
